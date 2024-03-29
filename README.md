@@ -1,1 +1,1 @@
-# Basic-If-else-Questions-for-Beiginners
+# Basic-If-else, switch & for-loop Questions
